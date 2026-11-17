@@ -1,5 +1,10 @@
 # Historical Persona System
 
+**English** | [中文](README.zh-CN.md)
+
+![CI](https://github.com/ChenyangZhao7/historical-persona-lab/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Historical speculation driven by historical figures' behavioural profiles.
 
 Every figure in the database is encoded as a 10-dimensional behavioural vector
